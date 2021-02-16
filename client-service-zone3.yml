@@ -3,4 +3,4 @@ eureka:
     metadataMap:
       zone: zone3
 server:
-  port: ${PORT:8083}
+  port: ${PORT:8089}
